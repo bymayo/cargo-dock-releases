@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>Cargo Dock Updates</title>
+        <title>Cargo Updates</title>
         <link>https://github.com/bymayo/cargo-dock</link>
-        <description>Most recent updates to Cargo Dock</description>
+        <description>Most recent updates to Cargo</description>
         <language>en</language>
-        <item>
-            <title>Version 1.0.0</title>
-            <pubDate>Wed, 09 Sep 2026 10:36:25 +0000</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/bymayo/cargo-dock-releases/releases/download/v1.0.0/Cargo-Dock-1.0.0.dmg"
-                sparkle:edSignature="fTgO6G0vMzy54dx8LEIFaHWHPfWojR1FAF0KVyad4JoYxgLtD/YSZuJtprrTxQLzzFV11aN8Cz6Baxr7r6SRAg=="
-                length="2848098"
-                type="application/octet-stream" />
-        </item>
+
+        <!-- Rewritten by .github/workflows/release.yml on each tagged release.
+             Empty until the first release, so Sparkle offers nothing. -->
+
     </channel>
 </rss>
