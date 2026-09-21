@@ -7,15 +7,15 @@
         <language>en</language>
         <item>
   <title>Version 1.0.1</title>
-  <pubDate>2026-09-21T13:04:58Z</pubDate>
+  <pubDate>2026-09-21T13:06:27Z</pubDate>
   <sparkle:version>1.0.1</sparkle:version>
   <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
   <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
   <description><![CDATA[<style>body{font:13px -apple-system,system-ui;margin:0;padding:0;color:#111}h2{font-size:15px;margin:0 0 8px}h3{font-size:13px;margin:12px 0 4px}ul{margin:0;padding-left:18px}li{margin-bottom:6px}code{font:11px ui-monospace,SFMono-Regular,Menlo;background:rgba(127,127,127,.15);padding:1px 4px;border-radius:3px}@media (prefers-color-scheme:dark){body{color:#eee}}</style><h2>Version 1.0.1</h2><ul><li>The app icon now matches other apps in the Dock, Spotlight and launchers, instead of sitting small inside a ring.</li><li>Opening search no longer pushes the header off the top of the menu bar panel and cuts off the footer.</li></ul>]]></description>
   <enclosure
       url="https://github.com/bymayo/cargo-dock-releases/releases/download/v1.0.1/Cargo-1.0.1.dmg"
-      sparkle:edSignature="7bF4z0+FDq/Bq6MQXNayGp4trxpGOQ6arI3tvncXX2Ay8Ec8Lm3sl8U6SbyLUSXUPxtH6ABz2hubsL4fMyXjCw=="
-      length="7819286"
+      sparkle:edSignature="vn98GpDmgRy9HT74jmj3eTMBqupzBNRF9WjyrIEYmFcxtzM2W+GPbpEHR9kRBu3g5VKrjlzoTtfJNDXD9SHiCA=="
+      length="7819319"
       type="application/octet-stream" />
         </item>
     </channel>
