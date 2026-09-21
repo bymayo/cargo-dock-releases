@@ -6,16 +6,16 @@
         <description>Most recent updates to Cargo</description>
         <language>en</language>
         <item>
-  <title>Version 1.0.0</title>
-  <pubDate>2026-09-21T12:28:57Z</pubDate>
-  <sparkle:version>1.0.0</sparkle:version>
-  <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+  <title>Version 1.0.1</title>
+  <pubDate>2026-09-21T12:32:41Z</pubDate>
+  <sparkle:version>1.0.1</sparkle:version>
+  <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
   <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-  <description><![CDATA[<style>body{font:13px -apple-system,system-ui;margin:0;padding:0;color:#111}h2{font-size:15px;margin:0 0 8px}h3{font-size:13px;margin:12px 0 4px}ul{margin:0;padding-left:18px}li{margin-bottom:6px}code{font:11px ui-monospace,SFMono-Regular,Menlo;background:rgba(127,127,127,.15);padding:1px 4px;border-radius:3px}@media (prefers-color-scheme:dark){body{color:#eee}}</style><h2>Version 1.0.0</h2><p>The first release. Cargo puts your DDEV projects in the menu bar and keeps the disk they use under control.</p><ul><li><strong>Every project in the menu bar</strong> — start, stop and restart without a terminal, with live status, search, and Power Off All for when you want the machine back.</li><li><strong>Quick Actions</strong> — up to five shortcuts on each project row: Start / Stop, Restart, Project Info, Open in Browser, Mailpit, TablePlus, Finder, Terminal, your editor, or your version control app. The rest stay in the row&#x27;s ⋯ menu.</li><li><strong>Cleanup</strong> — find the projects you haven&#x27;t touched in months and reclaim what they&#x27;re sitting on: <code>node_modules</code>, Composer <code>vendor</code>, and the Docker volumes and containers left behind. It also finds projects that exist only in Docker now, their code long since deleted.</li><li><strong>Cleanup clears DDEV&#x27;s shared cache</strong> — every project leaves a Node install and its shell history in <code>ddev-global-cache</code>, and DDEV walks all of it on every start. Left alone for long enough, that&#x27;s what makes <code>ddev start</code> crawl and eventually time out. Cleanup finds the folders belonging to projects that are gone, and removes them with the rest.</li><li><strong>Databases are backed up first</strong> — exported as a gzipped <code>.sql</code> before anything is removed, or archived straight from the volume when a project&#x27;s containers are already gone. Nothing is deleted if the backup fails.</li><li><strong>Diagnostics</strong> — Docker and DDEV status at a glance, with a Start Docker button and the prune commands that usually get things moving again.</li><li><strong>Appearance</strong> — follow the system, or pin light or dark.</li></ul>]]></description>
+  <description><![CDATA[<style>body{font:13px -apple-system,system-ui;margin:0;padding:0;color:#111}h2{font-size:15px;margin:0 0 8px}h3{font-size:13px;margin:12px 0 4px}ul{margin:0;padding-left:18px}li{margin-bottom:6px}code{font:11px ui-monospace,SFMono-Regular,Menlo;background:rgba(127,127,127,.15);padding:1px 4px;border-radius:3px}@media (prefers-color-scheme:dark){body{color:#eee}}</style><h2>Version 1.0.1</h2><ul><li>The app icon now matches other apps in the Dock, Spotlight and launchers, instead of sitting small inside a ring.</li><li>Opening search no longer pushes the header off the top of the menu bar panel and cuts off the footer.</li></ul>]]></description>
   <enclosure
-      url="https://github.com/bymayo/cargo-dock-releases/releases/download/v1.0.0/Cargo-1.0.0.dmg"
-      sparkle:edSignature="LQNCtdR/BuyXIj1ZTev1+AB/jFgQ1o6LRHNsxBMTVEPLmU+iBkOEPb5sRFkgUyYMuosasssKBjgTzHDqM0HqCg=="
-      length="9655360"
+      url="https://github.com/bymayo/cargo-dock-releases/releases/download/v1.0.1/Cargo-1.0.1.dmg"
+      sparkle:edSignature="4vOkHw8hV6aH8fYQcJrFQoNHKYV6p6lVuYg7BYpaY8nuXMPvCZXqKgEXjr4hGrG2WZL2p0go/lS9Jzu8sGgFAQ=="
+      length="7811601"
       type="application/octet-stream" />
         </item>
     </channel>
