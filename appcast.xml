@@ -6,16 +6,16 @@
         <description>Most recent updates to Cargo</description>
         <language>en</language>
         <item>
-  <title>Version 1.0.2</title>
-  <pubDate>2026-09-21T13:15:06Z</pubDate>
-  <sparkle:version>1.0.2</sparkle:version>
-  <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+  <title>Version 1.0.3</title>
+  <pubDate>2026-09-22T10:50:47Z</pubDate>
+  <sparkle:version>1.0.3</sparkle:version>
+  <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
   <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-  <description><![CDATA[<style>body{font:13px -apple-system,system-ui;margin:0;padding:0;color:#111}h2{font-size:15px;margin:0 0 8px}h3{font-size:13px;margin:12px 0 4px}ul{margin:0;padding-left:18px}li{margin-bottom:6px}code{font:11px ui-monospace,SFMono-Regular,Menlo;background:rgba(127,127,127,.15);padding:1px 4px;border-radius:3px}@media (prefers-color-scheme:dark){body{color:#eee}}</style><h2>Version 1.0.2</h2><ul><li>The menu bar panel stays the same size and shape while you search, including when nothing matches.</li></ul>]]></description>
+  <description><![CDATA[<style>body{font:13px -apple-system,system-ui;margin:0;padding:0;color:#111}h2{font-size:15px;margin:0 0 8px}h3{font-size:13px;margin:12px 0 4px}ul{margin:0;padding-left:18px}li{margin-bottom:6px}code{font:11px ui-monospace,SFMono-Regular,Menlo;background:rgba(127,127,127,.15);padding:1px 4px;border-radius:3px}@media (prefers-color-scheme:dark){body{color:#eee}}</style><h2>Version 1.0.3</h2><ul><li>The project order you pick in Settings now applies to the All tab as well as Running.</li><li>Removed the Recently Used order, which only knew about projects you had started from the menu bar. Recently Started replaces it, and anyone using it is moved across.</li><li>The icons along the bottom of the panel now match each other, and brighten as you point at them. The tabs and the search button highlight on hover too.</li></ul>]]></description>
   <enclosure
-      url="https://github.com/bymayo/cargo-dock-releases/releases/download/v1.0.2/Cargo-1.0.2.dmg"
-      sparkle:edSignature="YQypv/w2CahvTzwVcx3bf5caL521zvwJVUgFagviemMl1HApQJN5fZv9dPl5HXade1tkNp6fB3pPjBBlw9DmAw=="
-      length="7819059"
+      url="https://github.com/bymayo/cargo-dock-releases/releases/download/v1.0.3/Cargo-1.0.3.dmg"
+      sparkle:edSignature="RpooOr6acCummRw1VEt7vbS0ENn8st2iAfPsscy9Ys/Z7bUQjwelaLK0uF5ghVK+n1v+UOJfRiPUMSAjEzXUAw=="
+      length="7811296"
       type="application/octet-stream" />
         </item>
     </channel>
